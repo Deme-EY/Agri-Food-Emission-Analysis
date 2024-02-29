@@ -1,4 +1,4 @@
-# Agri-Food Emission Analysis
+![Agri-Food-Emission ](https://github.com/Deme-EY/Agri-Food-Emission-Analysis/assets/148797963/1d748477-824f-496b-aedb-d1121c52ba80)![Agri-Food-Emission ](https://github.com/Deme-EY/Agri-Food-Emission-Analysis/assets/148797963/cb1292d5-fda9-40ee-994d-952d374c0b9a)# Agri-Food Emission Analysis
 Table of Contents
 - [Background](Project_Background)
 - [Problem Statement](Problem_Statement)
@@ -12,7 +12,10 @@ The agri-food system contributes significantly to global CO2 emissions, with var
 - Collect, clean and integrate relevant data sources from Kaggle Dataset to quantify CO2 emissions associated with agricultural activities, food processing, transportation, and consumption patterns for each country. 
 - Visualize and compare CO2 emissions across different stages of the agri-food supply chain within and between countries. 
 - Identify key drivers of CO2 emissions in the agri-food system for each country, including agricultural practices, land use changes, and dietary preferences.
-Develop interactive dashboards and reports in Power BI to facilitate data exploration, trend analysis, and scenario planning for policymakers, researchers, and stakeholders.
+- Develop interactive dashboards and reports in Power BI to facilitate data exploration, trend analysis, and scenario planning for policymakers, researchers, and stakeholders.
+
+![Agri-Food-Emission ](https://github.com/Deme-EY/Agri-Food-Emission-Analysis/assets/148797963/d2ad1030-f863-4344-afae-ee621788cc46)
+
 ## Data Source
 The primary dataset used for this analysis is the "Agri-Food_data.csv from Kaggle dataset
 ## Analysis Highlight:
