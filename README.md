@@ -1,12 +1,11 @@
-![Agri-Food-Emission ](https://github.com/Deme-EY/Agri-Food-Emission-Analysis/assets/148797963/1d748477-824f-496b-aedb-d1121c52ba80)![Agri-Food-Emission ](https://github.com/Deme-EY/Agri-Food-Emission-Analysis/assets/148797963/cb1292d5-fda9-40ee-994d-952d374c0b9a)# Agri-Food Emission Analysis
+# Agri-Food Emission Analysis
 Table of Contents
 - [Background](Project_Background)
 - [Problem Statement](Problem_Statement)
 - [Data Source](Data_Source)
 - [Analysis Highlight](Analysis_Highlight)
 ## Background
-Agri-food systems account for one-third of total anthropogenic greenhouse gas (GHG) emissions (Crippa et al., 2021; Tubiello et al., 2021). They are generated within the farm gate, by crop 
-activities; by land-use change, for instancforest land and peatland drainage to make room for agriculture; and in pre- and post-production processes, such as food  manufacturing, retail,    household consumption and food disposal (Tubiello et al., 2022). 
+Agri-food systems account for one-third of total anthropogenic greenhouse gas (GHG) emissions (Crippa et al., 2021; Tubiello et al., 2021). They are generated within the farm gate, by crop activities; by land-use change, for instancforest land and peatland drainage to make room for agriculture; and in pre- and post-production processes, such as food  manufacturing, retail,household consumption and food disposal (Tubiello et al., 2022). 
 ## Problem Statement 
 The agri-food system contributes significantly to global CO2 emissions, with variations across countries due to diverse agricultural practices, land use patterns, and levels of industrialization. Therefore,understanding country-specific emissions within the agri-food system is essential for targeted mitigation strategies and policy interventions. The objective of this project is to utilize Power BI to conduct a comprehensive analysis  of CO2 emissions in the agri-food system, focusing on individual countries. The analysis aims to: 
 - Collect, clean and integrate relevant data sources from Kaggle Dataset to quantify CO2 emissions associated with agricultural activities, food processing, transportation, and consumption patterns for each country. 
