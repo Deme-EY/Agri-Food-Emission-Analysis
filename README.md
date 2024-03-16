@@ -43,7 +43,7 @@ The primary dataset used for this analysis is the "Agri-Food_data.csv from Kaggl
 ## Analysis Highlight:
 ### Summary of agri-Food Emission
 ![](Agri-Food-Emission.png)
-In 2020, global agri-food systems emissions were 18.43M tonnes of carbon dioxide equivalent (Gt CO2eq), an increase of 11 percent since 2000 and down 1 percent from 2019.
+In 2020, global agri-food systems emissions were 18.43M tonnes of carbon dioxide equivalent (Gt CO2eq), an increase of 11 percent since 2000 and down 1 percent from 2019. 😢
 The share of agri-food systems in total emissions in 2020 (31 percent) confirmed the steady downward trend from the levels of 2000 (38 percent), a consequence of agri-food systems emissions growing significantly more slowly than the rest of the economy, dominated by fossil fuels combustion for energy use. 
 - In 2020 the top 5 countries of Agri-food system emitters are China, China, Mainland, USA, India and Brazil and Bottom 5 are Chile, Bulgaria, Romania, Russia and Finland 
 ### Emission overtime and Tope Emission Drivers
