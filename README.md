@@ -1,14 +1,14 @@
 # Agri-Food Emission Analysis
-![](Agri-Food-Emission.png)
+![](Background-Emission.png)
 Table of Contents
 - [Background](Project_Background)
 - [Problem Statement](Problem_Statement)
 - [Skills and Concepts demonstrated](Skills_Concepts_demonstrated)
 - [Modeling](Modeling)
 - [Visualization](Visualization)
-- [Data Source](Data_Source)
 - [Analysis Highlight](Analysis_Highlight)
 - [Conclusion](Recommendations)
+- [Data Source](Data_Source)
   ## Background
 Agri-food systems account for one-third of total anthropogenic greenhouse gas (GHG) emissions (Crippa et al., 2021; Tubiello et al., 2021). They are generated within the farm gate, by crop activities; by land-use change, for instancforest land and peatland drainage to make room for agriculture; and in pre- and post-production processes, such as food  manufacturing, retail,household consumption and food disposal (Tubiello et al., 2022).
 
@@ -34,12 +34,10 @@ The model is a star schema.
 There are one-dimention tables and one fact table. The dimenstion tables are all joined to the fact table with a one-to-many relationships
 ## Visualization
 Out of the total 24 visual reporst the 3 all in one pages are: 
-1. Summary of agri-Food Emission
-2. Emission overtime and Top Emission drivers
-3. Temprature change overtime and forecast
-You can interact with the [here](https://app.powerbi.com/groups/me/reports/d15d50de-0ca1-440a-a72f-9d7800248ccd/ReportSection?experience=power-bi)
-## Data Source
-The primary dataset used for this analysis is the "Agri-Food_data.csv from Kaggle dataset
+1. Agri-Food Emission
+2. Emission-overtime-Top-Emission-drivers
+3. Temprature-change-overtime-forecast
+   
 ## Analysis Highlight:
 ### Summary of agri-Food Emission
 ![](Agri-Food-Emission.png)
@@ -62,4 +60,8 @@ The share of agri-food systems in total emissions in 2020 (31 percent) confirmed
 - Research and Innovation: Support research and innovation initiatives aimed at developing low-emission technologies, practices, and products in the agri-food sector. Investing in research on climate-smart agriculture, carbon sequestration techniques, and alternative food production systems can help identify innovative solutions to mitigate emissions while ensuring food security and sustainability.
 - Consumer Awareness: Increase consumer awareness about the environmental impact of food choices and empower consumers to make more sustainable food purchasing decisions. Educating consumers about the carbon footprint of different foods, promoting plant-based diets, and supporting local and sustainable food systems can help reduce emissions associated with food consumption.
 - Policy Support and Collaboration: Implement supportive policies and regulations at local, national, and international levels to incentivize emission reduction measures in the agri-food system. Foster collaboration between governments, businesses, NGOs, and research institutions to develop and implement comprehensive strategies for emissions mitigation and climate adaptation in the agri-food sector.
+
+You can interact with the [here](https://app.powerbi.com/groups/me/reports/d15d50de-0ca1-440a-a72f-9d7800248ccd/ReportSection?experience=power-bi)
+## Data Source
+The primary dataset used for this analysis is the "Agri-Food_data.csv from Kaggle dataset
 
