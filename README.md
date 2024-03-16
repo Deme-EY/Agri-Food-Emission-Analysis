@@ -44,12 +44,12 @@ Out of the total 24 visual reporst the 3 all in one pages are:
 In 2020, global agri-food systems emissions were 18.43M tonnes of carbon dioxide equivalent (Gt CO2eq), an increase of 11 percent since 2000 and down 1 percent from 2019. 😢
 The share of agri-food systems in total emissions in 2020 (31 percent) confirmed the steady downward trend from the levels of 2000 (38 percent), a consequence of agri-food systems emissions growing significantly more slowly than the rest of the economy, dominated by fossil fuels combustion for energy use. 
 - In 2020 the top 5 countries of Agri-food system emitters are China, China, Mainland, USA, India and Brazil and Bottom 5 are Chile, Bulgaria, Romania, Russia and Finland 
-### Emission overtime and Tope Emission Drivers
-![](Emission-Overtime-Top-Emission-drivers.png)
-- Out of the total 21 Agri-food system emission drivers the top 5 are IPPU (Emissions from industrial processes and product use), Net forest conversion, HH consumption, Rice cultivation and food processing
-### Change in Temprature
-![](Temprature-change-overime-forecast.png)
-- The average teprature have been increased year by year and the forecast also showed an increasing trend
+### Emission overtime and Top Emission Drivers
+![](Emission_overtime_top_emission_Driver)
+Out of the total 21 Agri-food system emission drivers the top 5 are IPPU (Emissions from industrial processes and product use), Net forest conversion, HH consumption, Rice cultivation and food processing
+### Change in Temperature
+![](Temperature_change_overtime_forecast_1)
+The average teprature have been increasing year by year and the forecast also showed an increasing trend
 ## Conclusion
 - In conclusion, the global agri-food system emission trends are increasing since 1990, due to this fact all actors in the development landscape should give emphasis in this sector to mitigate the impact of the agricultural VC on GHGs emission 
 ## Recommendations 
