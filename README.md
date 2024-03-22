@@ -1,14 +1,15 @@
 # Agri-Food Emission Analysis
 ![](Background-Emission.png)
 Table of Contents
-- [Background](Project_Background)
-- [Problem Statement](Problem_Statement)
-- [Skills and Concepts demonstrated](Skills_Concepts_demonstrated)
-- [Modeling](Modeling)
-- [Visualization](Visualization)
-- [Analysis Highlight](Analysis_Highlight)
-- [Conclusion](Recommendations)
-- [Data Source](Data_Source)
+- [Background](#background)
+- [Problem Statement](#problem-statement)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Modeling](#modeling)
+- [Visualization](#visualization)
+- [Analysis Highlight](#analysis-highlight)
+- [Conclusion](#conclusion)
+- [Recommendations](#recommendations)
+- [Data Source](#data-source)
   ## Background
 Agri-food systems account for one-third of total anthropogenic greenhouse gas (GHG) emissions (Crippa et al., 2021; Tubiello et al., 2021). They are generated within the farm gate, by crop activities; by land-use change, for instancforest land and peatland drainage to make room for agriculture; and in pre- and post-production processes, such as food  manufacturing, retail,household consumption and food disposal (Tubiello et al., 2022).
 
@@ -19,7 +20,7 @@ The agri-food system contributes significantly to global CO2 emissions, with var
 - Visualize and compare CO2 emissions across different stages of the agri-food supply chain within and between countries. 
 - Identify key drivers of CO2 emissions in the agri-food system for each country, including agricultural practices, land use changes, and dietary preferences.
 - Develop interactive dashboards and reports in Power BI to facilitate data exploration, trend analysis, and scenario planning for policymakers, researchers, and stakeholders.
-## Skills and Concepts demonstrated
+## Skills Demonstrated
 The following Power Bi features were incorporated
 - Filter, 
 - DAX,
